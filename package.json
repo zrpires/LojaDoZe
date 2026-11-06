@@ -1,0 +1,15 @@
+{
+  "name": "lojadoze",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env dev.mjs",
+    "start": "node --env-file-if-exists=.env dev.mjs",
+    "test": "node --test",
+    "check": "node --check public/app.js && node --check lib/core.js && node --check dev.mjs"
+  }
+}
