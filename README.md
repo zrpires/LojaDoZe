@@ -1,4 +1,4 @@
-# Curadoria.IA — Boas escolhas para sua rotina.
+# LojadoZé.IA — Boas escolhas para sua rotina.
 
 Uma loja simples, com uma ajuda inteligente para encontrar o que faz sentido para você.
 
@@ -7,8 +7,8 @@ MVP funcional independente, com interface em português, servidor Python e SQLit
 ## Executar
 
 ```bash
-git clone https://github.com/zrpires/ecommerce-com-ia.git
-cd ecommerce-com-ia
+git clone https://github.com/zrpires/lojadoze.git
+cd lojadoze
 python3 server.py
 ```
 
